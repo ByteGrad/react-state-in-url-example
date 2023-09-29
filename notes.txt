@@ -1,0 +1,13 @@
+keeping this state in url has many benefits
+
+- users can share the url on chat and social media and instantly get the same UI
+- users can bookmark the url and get the same UI
+- users can use the back button to get the previous UI 
+- users can use the forward button to get the next UI
+- users can open the url in a new tab / window and get the same UI
+- users can refresh the page and get the same UI
+- tech-savvy users will be able to manipulate the URL to get the UI they want
+- search engine optimization — URLs with structured state data can improve search engine ranking
+- users can save the url for themselves, e.g. in note taking app, to come back to same UI later
+- user can send the url to a new device and get the same UI
+- can even stay a server component
